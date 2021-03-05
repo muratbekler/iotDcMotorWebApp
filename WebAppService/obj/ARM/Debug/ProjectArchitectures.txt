@@ -1,0 +1,1 @@
+E:\Users\murat\Desktop\iotDcMotorWebApp\WebAppService\WebAppService.csproj;arm
